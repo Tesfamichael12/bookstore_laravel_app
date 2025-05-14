@@ -10,6 +10,15 @@ Welcome to the **Bookstore Laravel App**! This application is a modern, web-base
 
 This project is a PHP bookstore application migrated to the Laravel framework. It allows users to manage a catalog of books, including adding new books, viewing existing ones, updating their details, and removing them from the collection. It features cover photo uploads and a clean, user-friendly interface styled with Bootstrap and the Poppins font.
 
+## 🖼️ Demo
+
+![alt text](./Readme_images/image-1.png)
+![alt text](./Readme_images/image-2.png)
+![alt text](./Readme_images/image-3.png)
+![alt text](./Readme_images/image-4.png)
+![alt text](./Readme_images/image-5.png)
+![alt text](./Readme_images/image-6.png)
+
 ## ✨ Features
 
 -   List Books: View all books in an organized, paginated list.
